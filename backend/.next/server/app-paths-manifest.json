@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/blogs/[id]/route": "app/api/blogs/[id]/route.js",
+  "/api/blogs/route": "app/api/blogs/route.js",
+  "/api/contacts/[id]/route": "app/api/contacts/[id]/route.js",
+  "/api/contacts/route": "app/api/contacts/route.js",
+  "/api/orders/[id]/route": "app/api/orders/[id]/route.js",
+  "/api/orders/route": "app/api/orders/route.js",
+  "/api/products/[id]/route": "app/api/products/[id]/route.js",
+  "/api/products/route": "app/api/products/route.js",
+  "/page": "app/page.js"
+}

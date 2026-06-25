@@ -1,0 +1,7 @@
+body:not(.home) .site-header.header-v1.color-white {
+  background: #000;
+}
+
+body:not(.home) .site-header.header-v1 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
